@@ -142,12 +142,12 @@ const trivikram = {
 
 ### 📈 GitHub Analytics
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=565f89" alt="GitHub Streak" width="49%"/>](https://github-stats.vercel.app/api?username=trivikramkalagi91-commits&theme=tokyonight)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&layout=compact&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=8" alt="Top Languages" width="49%"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&layout=compact&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=6&card_width=350&cache_seconds=1800)
+![](https://img.shields.io/badge/Total%20Contributions-70-70a5fd?style=for-the-badge&labelColor=1a1b27)
+![](https://img.shields.io/badge/Current%20Streak-4%20Days-bf91f3?style=for-the-badge&labelColor=1a1b27)
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&show_icons=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5&ring_color=bf91f3&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="62%"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&show_icons=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5&ring_color=bf91f3&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="62%"/>](https://github-stats.vercel.app/api?username=trivikramkalagi91-commits&theme=tokyonight)
 
 </div>
 
