@@ -143,51 +143,36 @@ const trivikram = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&show_icons=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5&ring_color=bf91f3&count_private=true&include_all_commits=true" alt="GitHub Stats" width="60%"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trivikramkalagi91-commits&theme=tokyonight" alt="Profile Summary" width="98%"/>
-
-</div>
-
 ---
 
 ## 🐍 Contribution Graph
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trivikramkalagi91-commits/trivikramkalagi91-commits/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trivikramkalagi91-commits/trivikramkalagi91-commits/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/trivikramkalagi91-commits/trivikramkalagi91-commits/output/github-contribution-grid-snake-dark.svg" width="98%"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trivikramkalagi91-commits/trivikramkalagi91-commits/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trivikramkalagi91-commits/trivikramkalagi91-commits/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/trivikramkalagi91-commits/trivikramkalagi91-commits/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+  </picture>
 </div>
 
 ---
 
 ## 🌐 Let's Connect
-
 <div align="center">
-
-<a href="https://linkedin.com/in/trivikram-kalagi-571289371" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Trivikram%20Kalagi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:trivikramkalagi91@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-trivikramkalagi91%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/trivikramkalagi91-commits" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-trivikramkalagi91--commits-c0caf5?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/>
-</a>
-
+  <a href="https://linkedin.com/in/trivikram-kalagi-571289371" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Trivikram%20Kalagi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:trivikramkalagi91@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-trivikramkalagi91%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/trivikramkalagi91-commits" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-trivikramkalagi91--commits-c0caf5?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/>
+  </a>
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=100&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
   <sub>✦ Crafted with precision, passion & a lot of late nights ✦</sub>
