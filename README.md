@@ -142,8 +142,8 @@ const trivikram = {
 
 ### 📈 GitHub Analytics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=565f89" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&layout=compact&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=8" alt="Top Languages" width="49%"/>
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=565f89" alt="GitHub Streak" width="49%"/>](https://github-stats.vercel.app/api?username=trivikramkalagi91-commits&theme=tokyonight)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&layout=compact&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=8" alt="Top Languages" width="49%"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=trivikramkalagi91-commits&theme=tokyonight&hide_border=true&layout=compact&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&langs_count=6&card_width=350&cache_seconds=1800)
 
 <br/><br/>
 
